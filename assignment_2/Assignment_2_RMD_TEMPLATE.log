@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.25)  8 FEB 2024 04:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.25)  10 FEB 2024 05:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -457,7 +457,22 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box73
 ) (./Assignment_2_RMD_TEMPLATE.aux
 
+LaTeX Warning: Label `tab:unnamed-chunk-2' multiply defined.
+
+
 LaTeX Warning: Label `tab:unnamed-chunk-3' multiply defined.
+
+
+LaTeX Warning: Label `tab:unnamed-chunk-5' multiply defined.
+
+
+LaTeX Warning: Label `tab:unnamed-chunk-5' multiply defined.
+
+
+LaTeX Warning: Label `tab:unnamed-chunk-5' multiply defined.
+
+
+LaTeX Warning: Label `tab:unnamed-chunk-5' multiply defined.
 
 )
 \openout1 = `Assignment_2_RMD_TEMPLATE.aux'.
@@ -564,81 +579,49 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 15
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 195.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 177.
 
 LaTeX Font Warning: Font shape `T1/lmtt/bx/it' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 195.
+(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 177.
 
 [1
 
-{/Users/p_park/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/p_park/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] [2]
+{/Users/p_park/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/p_park/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 289.
+(Font)              <7> on input line 201.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 289.
-[3] [4] [5]
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ## vars                                                                                  p[] 
+(Font)              <5> on input line 201.
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 235--235
+[]\T1/lmtt/m/n/10 ## alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0[] 
+ []
+
+[2]
+Underfull \vbox (badness 10000) detected at line 313
  []
 
 
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ##   birthwgt 0.00000000000000000000000000000000000000000000000000000000000000000000000000[] 
+Underfull \vbox (badness 10000) detected at line 313
  []
 
-
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ##   mage     0.00000000000000000000000000000000000000000000000000000000000000000000000000[] 
- []
-
-
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ##   meduc    0.00000000000000000000000000000000000000000000000000000000000000000000000000[] 
- []
-
-
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ##   anemia   0.00000000000000069349363744652212303911548947161403147779553833227050851917[] 
- []
-
-
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ##   diabete  0.88580110424800984070259346481179818511009216308593750000000000000000000000[] 
- []
-
-
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ##   alcohol  0.00000000000000000000000000000000000000000000000000000000000000000000000000[] 
- []
-
-
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ##   mblack   0.00000000000000000000000179078464650524834793717795076174725104844672937223[] 
- []
-
-
-Overfull \hbox (2.7436pt too wide) in paragraph at lines 525--525
-[]\T1/lmtt/m/n/10 ##   first    0.00000000000000000000000000000000000000000000000000000000000000000000948984[] 
- []
-
-[6] [7]
-<Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-4-1.pdf, id=103, 289.08pt x 216.81pt>
+[3] [4] [5] [6]
+<Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-4-1.pdf, id=99, 289.08pt x 216.81pt>
 File: Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-4-1.pdf Graphic file (type pdf)
 <use Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-4-1.pdf>
-Package pdftex.def Info: Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-4-1.pdf  used on input line 676.
+Package pdftex.def Info: Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-4-1.pdf  used on input line 616.
 (pdftex.def)             Requested size: 289.09251pt x 216.81938pt.
-[8] [9 <./Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-4-1.pdf>] [10]
-<Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-5-1.pdf, id=125, 289.08pt x 216.81pt>
+[7] [8 <./Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-4-1.pdf>] [9] [10]
+<Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-5-1.pdf, id=129, 289.08pt x 216.81pt>
 File: Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pdf)
 <use Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-5-1.pdf>
-Package pdftex.def Info: Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-5-1.pdf  used on input line 854.
+Package pdftex.def Info: Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-5-1.pdf  used on input line 940.
 (pdftex.def)             Requested size: 289.09251pt x 216.81938pt.
 [11] [12 <./Assignment_2_RMD_TEMPLATE_files/figure-latex/unnamed-chunk-5-1.pdf>] [13] [14]
-Overfull \hbox (5.02342pt too wide) in paragraph at lines 1044--1050
+Overfull \hbox (5.02342pt too wide) in paragraph at lines 1145--1147
 \T1/lmr/m/n/10 Setup: Load the new base-line data (pro-gresa_pre_1997.csv) and the follow-up data (pro-gresa_post_1999.csv)
  []
 
-[15] [16] (./Assignment_2_RMD_TEMPLATE.aux)
+[15] [16] [17] (./Assignment_2_RMD_TEMPLATE.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -647,21 +630,21 @@ L3 programming layer <2024-01-22>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Assignment_2_RMD_TEMPLATE.out' has not changed.
-(rerunfilecheck)             Checksum: 963D76C98980D6F732D7B707D48B0758;3974.
+(rerunfilecheck)             Checksum: 2CA69AD6AFF999CEDF9181D1264BB952;3974.
  ) 
 Here is how much of TeX's memory you used:
- 12961 strings out of 476182
- 200151 string characters out of 5795299
- 1945975 words of memory out of 5000000
- 34670 multiletter control sequences out of 15000+600000
+ 12971 strings out of 476182
+ 200251 string characters out of 5795299
+ 1948975 words of memory out of 5000000
+ 34672 multiletter control sequences out of 15000+600000
  607986 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,9n,79p,610b,585s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,610b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtko10.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></Users/p_park/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on Assignment_2_RMD_TEMPLATE.pdf (16 pages, 340299 bytes).
+Output written on Assignment_2_RMD_TEMPLATE.pdf (17 pages, 353370 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 188 compressed objects within 2 object streams
- 55 named destinations out of 1000 (max. 500000)
+ 246 PDF objects out of 1000 (max. 8388607)
+ 199 compressed objects within 2 object streams
+ 63 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
